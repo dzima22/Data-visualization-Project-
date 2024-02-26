@@ -1,4 +1,8 @@
-Review
-Are you planning to see a certain movie. Can you trust online movie ratings and reviews? especially if the company that does the ratings and reviews also makes money from selling movie tickets. Do such companies have a tendency to give out inflated or undervalued ratings?
+Review:
+| --- |
+Are you planning to see a certain movie. Can you trust online movie ratings and reviews?
+especially if the company that does the ratings and reviews also makes money from selling movie tickets. 
+Do such companies have a tendency to give out inflated or undervalued ratings?
 The purpose of the project:
-The purpose of this project is to follow the steps of an article on fivethirtyeight.com about ratings and see if we can come to the same conclusions as those in the article. I will apply pandas skills and data visualization skills to determine if Fandango provided inflated ratings in 2015 in order to sell more tickets
+The purpose of this project is to follow the steps of an article on fivethirtyeight.com about ratings and see if we can come to the same conclusions as those in the article.
+I will apply pandas skills and data visualization skills to determine if Fandango provided inflated ratings in 2015 in order to sell more tickets.
